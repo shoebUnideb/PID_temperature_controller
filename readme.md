@@ -17,11 +17,12 @@ Python >=3.11
 
 ## to use
 1. Clone the repository using the following command: `git clone https://github.com/PID_temperature_controller.git`
-2. run main file using `python main.py
-3. for using other branches`
-4. Change into the repository directory: `cd Control`
-5. fetch the other branch using : git fetch origin constantControl                               
-6. checkout the constantControl branch for continuous temperature drop very slowly around dew point using: `git checkout constantControl`  
-7. checkout to the constantControl branch using: `git checkout constantControl
-8. run main file using `python main.py `
+2. Make necessary changes like arduino device name, power supply name, target temperature etc.
+3. run main file using `python main.py
+4. for using other branches`
+5. Change into the repository directory: `cd Control`
+6. fetch the other branch using : git fetch origin constantControl                               
+7. checkout the constantControl branch for continuous temperature drop very slowly around dew point using: `git checkout constantControl`  
+8. checkout to the constantControl branch using: `git checkout constantControl
+9. run main file using `python main.py `
 
