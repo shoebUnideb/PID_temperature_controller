@@ -1,4 +1,4 @@
-## There are three branches for this github repository:
+There are two branches for this github repository:
 1. Main
 2. constantControl
 
