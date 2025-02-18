@@ -16,7 +16,7 @@ Python >=3.11
 5. matplotlib
 
 ## to use
-1. Clone the repository using the following command: `git clone https://github.com/PID_temperature_controller.git
+1. Clone the repository using the following command: `git clone https://github.com/PID_temperature_controller.git`
 2. run main file using `python main.py
 3. for using other branches`
 4. Change into the repository directory: `cd Control`
